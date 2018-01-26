@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fjquery.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fjquery?ref=badge_shield)
+
 [jQuery](https://jquery.com/) — New Wave JavaScript
 ==================================================
 
@@ -373,3 +375,7 @@ Questions?
 
 If you have any questions, please feel free to ask on the
 [Developing jQuery Core forum](https://forum.jquery.com/developing-jquery-core) or in #jquery on irc.freenode.net.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fjquery.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fjquery?ref=badge_large)
